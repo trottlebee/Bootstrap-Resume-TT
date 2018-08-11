@@ -1,0 +1,26 @@
+
+.display-5 {
+    font-size: 2.5em;
+    color: white;
+}
+
+.jumbotron {
+    background-color: cadetblue;
+}
+
+.lead {
+    color: lightgray
+}
+
+p {
+    font-size: .75em;
+}
+
+#footer {
+    background-color: darkslategray
+}
+
+h6 {
+    letter-spacing: -.0625em
+}
+
